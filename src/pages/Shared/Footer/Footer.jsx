@@ -1,9 +1,8 @@
-import React from 'react';
-
+ 
 const Footer = () => {
     return (
         <div>
-            <p className='text-center'><small>copyright of my news</small></p>
+            <h6 className="text-center"><small>Copyright of my news</small></h6>
         </div>
     );
 };
